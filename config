@@ -1,0 +1,3 @@
+Host git@intra.cri.epita.fr
+User git
+IdentityFile ~/.ssh/my_git_key_file
