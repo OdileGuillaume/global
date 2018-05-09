@@ -1,0 +1,7 @@
+[user]
+	name = Guillaume Odile
+	email = guillaume.odile@epita.fr
+[color]
+	ui = true
+[push]
+	default = simple
